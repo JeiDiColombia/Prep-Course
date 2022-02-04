@@ -1,0 +1,23 @@
+Variables: es la forma que tenemos en Js de guardar valores. Existen tres tipos de variables que 
+podemos usar con las palabras clave var, let, const. Una vez creadas nuestras variables con los 
+valores que les hemos puesto, podremos escribir código. 
+
+Strings: es un tipo de dato que contiene texto, se escribe entre comilas 'String' y también se le 
+conoce como cadena. 
+
+Funciones (argumentos, return): las funciones son un tipo particular de objeto llamados callable 
+objects u objetos invocables. Con ellos podremos calcular, cambiar y hacer algo con las variables que 
+hemos creado. 
+* Una vez que tenemos nuestra funcion le podemos añadir argumentos que harán las veces de variables 
+dentro de ellas. 
+* Además de los argumentos, también hay un elemento muy importante que es el 'return' y es la forma 
+en la que las funciones devuleven datos. Sin este elemento la función al ser invocada no devolverá 
+ningún elemento por lo que no sería útil.  
+
+Declaraciones if: las declaraciones if son palabras clave que nos van a servir para establecer lo que 
+llamaremos un control de flujo. Este statement recibe una condición que en caso de cumplirse va a 
+ejecutar un bloque de código específico y otro en caso de no cumplirse. 
+
+Valores booleanos (true, false): los valores booleanos son expresiones que nos sirven como respuesta
+a las condiciones que escribiremos en nuestras funciones. Estas expresiones son la forma que tiene 
+Js de evaluar si una condición es verdadera o falsa. 
