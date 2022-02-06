@@ -1,0 +1,12 @@
+for: for es una palabra clave que usaremos para establecer un bucle for. Este bucle es una de las 
+forma que tenemos en JS para realizar ciclos que evaluan expresiones una y otra vez hasta que 
+devuelve lo que estamos buscando. Consta de tres partes, la variable iteradora, la condición de 
+parada y el incremento de la variable. 
+
+&&, ||, !: estos son los operadores lógicos y los utilizamos para preguntar si las expresiones que 
+tenemos son verdaderas o falsas. El operador lógico 'And' (&&) nos ayudará a preguntar si ambas de 
+las expresiones que tenemos son verdaderas y de ser así se ejecutará un bloque de código. El operador
+lógico 'Or' (||) se encarga de preguntar si una de las expresiones que tenemos es verdadera, podemos 
+tener más de dos, en el caso de que una de ellas resulte true se ejecutará cierto bloque de código.
+Por último, tenemos el operador lógico 'Not' (!) que nos ayuda a devolver el valor contrario al que 
+recibe la expresión, en caso de ser true, resultará false y si es false, cambiará a true. 
