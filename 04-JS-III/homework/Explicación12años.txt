@@ -1,0 +1,8 @@
+Arrays: son un tipo de variable en la cual podemos guardar un conjunto de datos. Éstos pueden ser
+cualquier tipo de dato, números, strings, booleanos, null, undefined, incluso puede guardar 
+funciones y otros arreglos. Los arreglos tienen algunos métodos nativos de su clase como .length para 
+saber su longitud, .push / .pop para añadir o eliminar datos de la última posición del arreglo y 
+.unshift / .shift para realizar lo mismo pero con la primera posición [0]. En el arreglo podemos 
+asignar y re-asignar valores a sus elementos con nombreDelArray [índiceAsignarValor] = valor del 
+índice. Por último, podemos ver todos los elementos de un arreglo haciendo un console.log 
+(nombreDelArray).
