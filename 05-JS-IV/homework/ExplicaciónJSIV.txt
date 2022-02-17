@@ -1,0 +1,22 @@
+Objetos: los objetos son variables que nos permiten almacenar gran cantidad de información sobre una
+misma cosa. Para ello alberga una serie de key:value (claves:valor) que sirven para determinar 
+el nombre (key) de un elemento y su valor (value). Cada par clave-valor se separa por una coma (,) y 
+puede tener todo tipo de datos: números, strings/cadenas, booleanos, undefined, null, funciones, arrays
+e incluso otros objetos. A las funciones dentro de los objetos los llamaremos métodos. 
+
+Propiedades: las propiedades es otra forma de referirnos a las claves (key) que establecemos dentro 
+de un objeto para darles un valor y guardar como parte de la información que queremos atribuir. 
+
+Métodos: los métodos como ya lo mencionamos antes, son las propiedades (key, clave) de un objeto que 
+tienen por valor (value) una función. 
+
+Bucle for…in: el bucle for ... in es la forma que tenemos para recorrer los objetos. Cuando vimos arrays
+vimos el bucle for y la forma como éste recorre el arreglo según las instrucciones que le asignamos.
+Ahora, este bucle recorre cada propiedad del objeto y realiza la función que le programemos. 
+
+Notación de puntos vs notación de corchetes: para acceder a los valores dentro de un array utilizamos
+la notación de índices [], ahora para acceder a una propiedad y su valor tenemos dos (2) opciones:
+1. Notación de puntos que lleva el nombre_del_objeto + un punto (.) + el nombre de la propiedad ej:
+Objeto1.propiedad y 2. con bracket notación es el nombre_del_objeto + los corchetes con comillas ['']
+ y dentro de las comillas el nombre de la propieadad ej: Objeto1['propiedad']. De esta forma podremos
+ tanto acceder a los valores de las propiedades como asignarles un nuevo valor (pisar).  
