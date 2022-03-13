@@ -1,0 +1,7 @@
+prototype: el prototype nos sirve para asignar métodos a nuestra clase de objetos sin necesidad de 
+incluirlos dentro de la clase de objetos. De esta forma, ahorraremos espacio al crear nuevos objetos. 
+
+Constructors (de Clases): los constructores nos ayudan a crear objetos que comparten propiedades
+comunes. También se les conoce como funciones fábrica (fabric functions). Cuando tenemos una clase
+de objetos con propiedades y métodos definidos, la podemos considerar un constructor, _proto_ o 
+función fábrica.    
