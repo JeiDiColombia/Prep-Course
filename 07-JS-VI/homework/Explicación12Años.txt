@@ -1,0 +1,3 @@
+Funciones Callback: las funciones callback son una forma que tiene Javascript para incluir funciones
+dentro de otras funciones. De esta forma podemos crear una función e invocarla dentro de otra 
+utilizando el keyword cb. 
